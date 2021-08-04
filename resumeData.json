@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Bhavik Khawale",
+    "occupation": "Student/Programmer/Youtuber",
+    "description": "I am pretty good at Java and python. But Now I am in LOVE With React",
+    "image": "final2.png",
+    "bio": "Hello I am Bhavik Khawale, don't look at the user name because it is my mom's account. My age 14, or is been atleast a year I started to code I am pretty good at Java and python. And I started web dev before 3 months",
+    "contactmessage": "Do you want to work with me? Just Submit the contact form",
+    "email": "bhavikkhawale@gmail.com",
+    "phone": "+123 123456789",
+    "address": {
+      "street": "Neclase Road",
+      "city": "Akola",
+      "state": "Maharashtra, India",
+      "zip": "123456"
+    },
+    "website": "https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg/featured",
+    "resumedownload": "https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg/about",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bhavik-khawale/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Bhavik-k",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Mount Carmel secondary and higer secondry school, Akola",
+        "degree": "None I am In School",
+        "graduated": "Aug 2021",
+        "description": "Soo Basically I am A self learner"
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "82%"
+      },
+      {
+        "name": "Web Development",
+        "level": "86%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Piano Tiles Bot With python",
+        "category": "",
+        "image": "gmail.PNG",
+        "url": "https://youtu.be/w7I4YkkolGE"
+      },
+      {
+        "title": "Tic-Tac-Toe game in j ava",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://youtu.be/3NJbmCONavk"
+      },
+      {
+        "title": "CHAT WEB-APP with Firebase",
+        "category": "",
+        "image": "snapchat.PNG",
+        "url": "https://youtu.be/IWcKUamTMzk"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bhavik Is Good At Coding",
+        "user": "My Dad"
+      }
+    ]
+  }
+}

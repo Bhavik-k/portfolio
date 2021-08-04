@@ -1,0 +1,2 @@
+.submit{background-color:#000;border-radius:5px;padding:20px}.skills li{-webkit-clip-path:polygon(0 0,100% 0,100% 100%,0 100%);clip-path:polygon(0 0,100% 0,100% 100%,0 100%)}.grid-container{display:grid}.grid-container--fill{grid-template-columns:repeat(auto-fill,minmax(100px,1fr))}.grid-container--fit{grid-template-columns:repeat(auto-fit,minmax(100px,1fr))}.grid-element{padding:5px;color:#fff;border:1px solid #fff;display:grid;place-items:center}.grid-element img{width:85%}
+/*# sourceMappingURL=main.a6421f0d.chunk.css.map */
